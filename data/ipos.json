@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tata Electronics Components Ltd",
+    "symbol": "TATAELEC",
+    "issuePrice": "₹450 - ₹475",
+    "gmp": "+₹135 (28.4% Expected Gain)",
+    "status": "Upcoming",
+    "openDate": "24-Nov-2026",
+    "closeDate": "27-Nov-2026",
+    "lotSize": "30 Shares",
+    "category": "Mainboard"
+  },
+  {
+    "company": "Solaris Clean Energy Solutions",
+    "symbol": "SOLARIS",
+    "issuePrice": "₹210 - ₹225",
+    "gmp": "+₹85 (37.7% Expected Gain)",
+    "status": "Open Now",
+    "openDate": "17-Nov-2026",
+    "closeDate": "20-Nov-2026",
+    "lotSize": "65 Shares",
+    "category": "Mainboard"
+  },
+  {
+    "company": "NexGen AI Robotics India",
+    "symbol": "NEXGENAI",
+    "issuePrice": "₹115 - ₹122",
+    "gmp": "+₹52 (42.6% Expected Gain)",
+    "status": "Upcoming",
+    "openDate": "01-Dec-2026",
+    "closeDate": "04-Dec-2026",
+    "lotSize": "120 Shares",
+    "category": "SME"
+  },
+  {
+    "company": "Zenith Pharma BioTech",
+    "symbol": "ZENITHBIO",
+    "issuePrice": "₹340 - ₹360",
+    "gmp": "+₹45 (12.5% Expected Gain)",
+    "status": "Upcoming",
+    "openDate": "28-Nov-2026",
+    "closeDate": "02-Dec-2026",
+    "lotSize": "40 Shares",
+    "category": "Mainboard"
+  }
+]
